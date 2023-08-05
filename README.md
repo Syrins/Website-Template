@@ -1,11 +1,7 @@
 
-## Login Page
+## Login Page / Login Sayfası
 
 Animasyonla Login Sayfası / Animation Login Page
-
-# Kullanılan Teknolojiler
-
-**İstemci:** Html , CSS
 
 # Resim / Picture
 
