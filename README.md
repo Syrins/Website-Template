@@ -1,7 +1,7 @@
 
 ## Login Page / Login Sayfası
 
-Animasyonla Login Sayfası / Animation Login Page
+Animasyonlu Login Sayfası / Animation Login Page
 
 # Resim / Picture
 
